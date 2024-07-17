@@ -25,10 +25,13 @@ In this project I built up my practical knowledge of networking using azure virt
 2. Use Remote Desktop to connect to Windows VM
 3. Install Wireshark and observe network protocols
 4. Analyze data packets in Wireshark while running various protocols
-5. Disconnect and Delete Resources on Azure to save money (very important!)
+5. Disconnect and Delete Resources on Azure (very important!)
+
+<h2>What I Learned</h2>
+
 
 <h2>My Approach to Learning</h2>
 
 <p>After completing this lab and tinkering with wireshark and virtual machines. I decided to explore further and use chatGPT to expand my knowledge. In this video I explain my exact process and how anyone can use this process to learn networking.</p>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.loom.com/share/300c3a9cffa549eb85744159b824ccc3?sid=1e3be43c-1e8d-4322-b280-b9e164060b16)
+- ### [What networking ACTUALLY looks like (Wireshark + ChatGPT)](https://www.loom.com/share/300c3a9cffa549eb85744159b824ccc3?sid=1e3be43c-1e8d-4322-b280-b9e164060b16)
