@@ -27,8 +27,6 @@ In this project I built up my practical knowledge of networking using azure virt
 4. Analyze data packets in Wireshark while running various protocols
 5. Disconnect and Delete Resources on Azure (very important!)
 
-<h2>What I Learned</h2>
-
 
 <h2>My Approach to Learning</h2>
 
